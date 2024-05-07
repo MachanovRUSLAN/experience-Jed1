@@ -1,0 +1,27 @@
+.galerry {
+  text-align: center;
+  position: relative;
+  background-color: rgb(232, 239, 244);
+  height: 500px;
+  padding-top: 10%;
+}
+.galery {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 50px;
+}
+.g1 {
+  margin-top: 50%;
+}
+.g2 {
+  margin-top: -10%;
+}
+.g3 {
+  margin-top: 20%;
+}
+.g4 {
+  margin-top: -10%;
+}
+.g5 {
+  margin-top: 50%;
+}

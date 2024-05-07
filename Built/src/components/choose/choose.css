@@ -1,0 +1,42 @@
+.Maincontainer {
+  display: flex;
+  justify-content: space-between;
+}
+.section-choose {
+  padding-top: 60px;
+  background-color: rgb(244, 253, 254);
+}
+.section-choose h1 {
+  font-size: 56px;
+  margin-left: 50px;
+  padding-bottom: 40px;
+}
+.icons {
+  position: relative;
+  width: 40%;
+  display: flex;
+}
+.chose-img {
+  position: relative;
+  left: 0;
+  top: 0;
+}
+.choseimg2 {
+  position: absolute;
+  bottom: -20%;
+  right: 10%;
+}
+.choseContainer {
+  padding: 20px 40px;
+}
+.choseContainer p {
+  font-size: 19px;
+  color: rgb(114, 125, 125);
+  padding-bottom: 20px;
+}
+.secure {
+  margin-top: 30%;
+}
+.us {
+  color: rgb(0, 149, 164);
+}

@@ -1,0 +1,28 @@
+.section-img {
+  position: relative;
+}
+.img-part {
+  width: 90%;
+  position: relative;
+  margin: auto;
+  z-index: 99;
+}
+.img-part img {
+  width: 100%;
+}
+.back {
+  position: absolute;
+  bottom: 0;
+}
+.img1 {
+  width: 30%;
+  left: 77%;
+  bottom: 65%;
+  position: absolute;
+}
+.img2 {
+  width: 35%;
+  top: 20%;
+  right: 72%;
+  position: absolute;
+}

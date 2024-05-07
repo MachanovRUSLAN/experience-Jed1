@@ -1,0 +1,28 @@
+.content {
+  text-align: center;
+}
+.card-1 {
+  background-color: #fff;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.card-1 img {
+  width: 100%;
+}
+
+.content img {
+  width: 100px;
+}
+.floorcards {
+  width: 95%;
+  margin: auto;
+  padding: 0 50px;
+}
+.FloorSection {
+  text-align: center;
+  padding-top: 10%;
+  background-color: rgb(232, 239, 244);
+}
+.FloorSection p {
+  padding-bottom: 10px;
+}

@@ -1,0 +1,20 @@
+.Ameneties {
+  padding-top: 200px;
+  text-align: center;
+}
+.AmenetiesSection {
+  position: relative;
+}
+.cards {
+  width: 90%;
+  margin: auto;
+  padding-right: 60px;
+  z-index: 99;
+}
+.backam {
+  position: absolute;
+  bottom: 0;
+}
+.mult {
+  z-index: 9999;
+}

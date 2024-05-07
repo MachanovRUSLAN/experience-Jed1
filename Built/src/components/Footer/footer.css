@@ -1,0 +1,68 @@
+.footer {
+  background-color: rgb(12, 22, 35);
+  padding-top: 5%;
+}
+.footer P {
+  color: #fff;
+}
+.fotCont {
+  padding: 30px 0;
+  color: #fff;
+}
+.sosial-icons {
+  display: flex;
+  margin-top: 20px;
+}
+.icon {
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  background-color: rgb(0, 149, 164);
+  border-radius: 50%;
+}
+.footcard {
+  text-align: start;
+}
+.footbtn {
+  margin-top: 30px;
+}
+.iconface {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  background-color: rgb(0, 149, 164);
+  border-radius: 50%;
+}
+.num {
+  margin-left: 40px;
+  background: transparent;
+  border: 1px solid rgb(0, 149, 164);
+  color: rgb(0, 149, 164);
+}
+.footcardLast {
+  text-align: start !important;
+}
+.footcardLast img {
+  margin-bottom: 10px;
+}
+.footer-box {
+  width: 80%;
+  margin: auto;
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.footcardCenter {
+  margin-right: 10%;
+}
+.lastcont {
+  padding-top: 10%;
+  padding-bottom: 20px;
+  width: 100%;
+  text-align: center;
+}

@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+.chance {
+  position: relative;
+  margin-top: 30%;
+  overflow: hidden;
+}
+.backChance {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.register {
+  display: flex;
+  position: absolute;
+  align-items: start;
+  justify-content: space-between;
+  top: 15px;
+  width: 90%;
+  margin: auto;
+}
+.info {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.reg-content {
+  position: absolute;
+  left: 10%;
+  top: 110px;
+}
+.reg-content h1 {
+  font-size: 50px;
+  color: #fff;
+  font-family: "Playfair Display", serif;
+}
+.reg-content p {
+  font-size: 20px;
+  color: #fff;
+  font-family: "Playfair Display", serif;
+}
+.miss {
+  color: rgb(3, 149, 164);
+}
+.subbtn {
+  width: 90%;
+  height: 50px;
+  border-radius: 30px;
+  background-color: rgb(3, 149, 164);
+  margin: 10px 20px;
+  color: #fff;
+  font-size: 21px;
+  font-weight: 600;
+}
+.reg-form {
+  position: absolute;
+  right: -5%;
+  padding: 70px 30px 0 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  border-top-left-radius: 45%;
+  border-top-right-radius: 45%;
+}
+.reg-form input {
+  margin: 10px;
+}
+.reg {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.inputDiv {
+  display: flex;
+  flex-direction: column;
+  font-family: "Playfair Display", serif;
+}
+.inputDiv input {
+  padding: 10px;
+  height: 40px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid rgb(144, 184, 189);
+  background: rgb(244, 253, 254);
+}
+.inputDiv span {
+  padding-left: 10px;
+  display: inline;
+  font-size: 18px;
+  font-weight: 600;
+}
+.area {
+  padding: 15px;
+}
+.area-input {
+  width: 100%;
+  background-color: rgb(244, 253, 254);
+  border: 1px solid rgb(144, 184, 189);
+  height: 150px;
+}
+.area-input input {
+  width: 90%;
+  border: none;
+  outline: none;
+  background: transparent;
+}
+.res {
+  text-align: center;
+  margin-top: 20px;
+}
